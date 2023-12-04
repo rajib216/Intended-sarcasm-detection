@@ -1,1 +1,2 @@
 # Intended-sarcasm-detection
+Sarcasm is a form of humor expressed by people to mean the exact opposite of what is being said. Because sarcasm is an umbrella term, there are other, more subtle, types of sarcasm as well such as irony, satire, rhetorical question and others. In this project, we use the popular language model framework BERT (Bidirectional Encoder Representations from Transformers) on the SemEval-2022 task 6: iSarcasmEval English dataset to classify whether a piece of text is sarcastic or not. This work onlyfocuses on the English dataset.
